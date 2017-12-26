@@ -1,7 +1,7 @@
 # AEM Automation
 # Getting Started
 # Prerequisites
-Download JDK and JRE 
-Download Eclipse IDE 
-Download ChromeDriver
+1.Download and install Java (JDK and JRE) 
+2.Download and install Eclipse IDE 
+3.Download ChromeDriver
 
