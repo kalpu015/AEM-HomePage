@@ -1,1 +1,1 @@
-# AEM AUtomation 
+# AEM Automation
